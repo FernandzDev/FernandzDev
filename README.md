@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/THZf1032YxcAAAAd/tree.gif" width="65%" />
+  <img src="https://media1.tenor.com/m/THZf1032YxcAAAAd/tree.gif" width="60%" />
 </div>
 
 <h1 align="center">Hi, I'm Fernandes Dev</h1>
@@ -14,12 +14,19 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="left">
-  🇧🇷 I'm Erick Fernandes, from Londrina, Brazil.<br><br>
-  🎓 Studying Software Engineering at UniFil.<br><br>
-  💻 Working with Helpdesk Technical Support.<br><br>
-  📚 Always learning, exploring new technologies and building projects.
-</p>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="left" width="60%">
+      🇧🇷 I'm Erick Fernandes, from Londrina, Brazil.<br><br>
+      🎓 Studying Software Engineering at UniFil.<br><br>
+      💻 Working with Helpdesk Technical Support.<br><br>
+      📚 Always learning, exploring new technologies and building projects.
+    </td>
+    <td align="center" width="40%">
+      <img width="160" src="https://github.com/user-attachments/assets/3f0cad02-0345-4276-9fc9-e962b3edb838" alt="Silver Surfer" />
+    </td>
+  </tr>
+</table>
 
 ---
 
