@@ -1,19 +1,18 @@
-
 <div align="center">
-  <img src="https://media1.tenor.com/m/THZf1032YxcAAAAd/tree.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/THZf1032YxcAAAAd/tree.gif" width="65%" />
 </div>
 
-<h2 align="center">Hi, I'm Fernandes Dev</h2>
+<h1 align="center">Hi, I'm Fernandes Dev</h1>
 
-<h4 align="center">Backend Developer | Cybersecurity Enthusiast</h4>
+<h3 align="center">Backend Developer | Cybersecurity Enthusiast</h3>
 
-<p align="center">
+<p align="center" style="font-size: 16px;">
   Software Engineering student passionate about technology, backend development and cybersecurity.
 </p>
 
 ---
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 <p align="left">
   🇧🇷 I'm Erick Fernandes, from Londrina, Brazil.<br><br>
@@ -24,6 +23,11 @@
 
 ---
 
+<h3 align="center">🛠️ Technologies & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
 ---
 
@@ -35,6 +39,8 @@
     alt="Most Used Languages"
   />
 </div>
+
+---
 
 <h3 align="center">🤝 Connect With Me</h3>
 
