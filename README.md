@@ -2,10 +2,6 @@
   <img src="https://media.tenor.com/7H65eQ8d25UAAAAi/tree.gif" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=header&text=Fernandes%20Dev&fontSize=38&fontColor=00f0ff&animation=fadeIn&fontY=50" width="100%" />
-</div>
-
 ## 💻 About Me
 
 * 🇧🇷 I'm Erick Fernandes, from Londrina, Brazil.
