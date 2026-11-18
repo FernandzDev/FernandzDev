@@ -7,7 +7,7 @@
 * 🇧🇷 I'm Erick Fernandes, from Londrina, Brazil.
 * 🚀 Studying Software Engineering at UniFil.
 * 🛠️ Working with helpdesk technical support, with experience in HeidiSQL, MySQL, and SQL.
-* 🎯 Objetivo: Desenvolvedor em constante aprendizado, com interesse em Backend Development e Cybersecurity. Buscando aprimorar minhas habilidades, desenvolver projetos e expandir meus conhecimentos na área de tecnologia.
+* 🎯 Objetivo: A developer who is constantly learning, with an interest in Backend Development and Cybersecurity. Seeking to improve my skills, develop projects, and expand my knowledge in the technology field.
 * ⚡ Feel free to reach out and check my repositories!
 
 ## 📊 Languages and activity
