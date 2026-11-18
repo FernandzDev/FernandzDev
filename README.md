@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0df&height=180&section=header&text=Erick%20Fernandes&fontSize=40&fontColor=fff&animation=fadeIn&fontY=35" width="100%" />
+  <img src="https://media.tenor.com/7H65eQ8d25UAAAAi/tree.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=header&text=Fernandes%20Dev&fontSize=38&fontColor=00f0ff&animation=fadeIn&fontY=50" width="100%" />
 </div>
 
 ## 💻 About Me
@@ -7,7 +11,7 @@
 * 🇧🇷 I'm Erick Fernandes, from Londrina, Brazil.
 * 🚀 Studying Software Engineering at UniFil.
 * 🛠️ Working with helpdesk technical support, with experience in HeidiSQL, MySQL, and SQL.
-* 🎯 Objetivo: A developer who is constantly learning, with an interest in Backend Development and Cybersecurity. Seeking to improve my skills, develop projects, and expand my knowledge in the technology field.
+* 🎯 Objetivo: Desenvolvedor em constante aprendizado, com interesse em Backend Development e Cybersecurity. Buscando aprimorar minhas habilidades, desenvolver projetos e expandir meus conhecimentos na área de tecnologia.
 * ⚡ Feel free to reach out and check my repositories!
 
 ## 📊 Languages and activity
@@ -38,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0df&height=120&section=footer&cutta=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer&cutta=true" width="100%" />
 </div>
